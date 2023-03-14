@@ -1,0 +1,7 @@
+@inproceedings{REPO-017,
+    author = "Cheng, Yuchen and Wu, Chunghsuan and Liu, Yanqiang and Ren, Rui and Xu, Hong and Yang, Bin and Qi, Zhengwei",
+    booktitle = "Proceedings of the 49th International Conference on Parallel Processing",
+    pages = "1--11",
+    title = "{OPS: Optimized Shuffle Management System for Apache Spark}",
+    year = "2020"
+}
